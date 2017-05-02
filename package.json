@@ -1,6 +1,6 @@
 {
   "name": "math-traverse",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Library for traversing and replacing nodes in a math-ast AST",
   "main": "dist/math-traverse.js",
   "scripts": {
